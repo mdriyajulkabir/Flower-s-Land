@@ -1,0 +1,182 @@
+ [
+  {
+    "name": "Rose",
+    "_id": 101,
+    "price": 550,
+    "country": "New-York",
+    "scientificName": "Rosa",
+    "color": "Pink",
+    "url": "https://i.ibb.co/88wDQPR/photo-2021-09-26-00-47-46.jpg"
+  },
+  {
+    "name": "Lily",
+    "_id": 102,
+    "price": 450,
+    "country": "Bangladesh",
+    "scientificName": "Lilium",
+    "color": "White",
+    "url": "https://i.ibb.co/x7s1MrC/photo-2021-09-26-00-50-08.jpg"
+  },
+  {
+    "name": "Tulip",
+    "_id": 103,
+    "price": 355,
+    "country": "Bangladesh",
+    "scientificName": "Tulipa",
+    "color": "Baby-Pink",
+    "url": "https://i.ibb.co/r29cLmT/photo-2021-09-26-00-51-10.jpg"
+  },
+  {
+    "name": "Orchid",
+    "_id": 104,
+    "price": 390,
+    "country": "Africa",
+    "scientificName": "Phalaenopsis",
+    "color": "Purple",
+    "url": "https://i.ibb.co/h2fzWhM/photo-2021-09-26-00-54-12.jpg"
+  },
+  {
+    "name": "Carnation",
+    "_id": 105,
+    "price": 160,
+    "country": "UK",
+    "scientificName": "Dianthus",
+    "color": "Pink",
+    "url": "https://i.ibb.co/BfW6KRH/photo-2021-09-26-00-54-42.jpg"
+  },
+  {
+    "name": "Chrysanthemum",
+    "_id": 106,
+    "price": 2700,
+    "country": "Brasil",
+    "scientificName": "Chrysanthemum",
+    "color": "White",
+    "url": "https://i.ibb.co/hchshQp/photo-2021-09-26-00-54-22.jpg"
+  },
+  {
+    "name": "Gladiolus",
+    "_id": 107,
+    "price": 320,
+    "country": "Costarica",
+    "scientificName": "Gladiolus",
+    "color": "Red,Purple,White",
+    "url": "https://i.ibb.co/GH2Kj8F/photo-2021-09-26-00-54-40.jpg"
+  },
+  {
+    "name": "Poppy",
+    "_id": 108,
+    "price": 460,
+    "country": "India",
+    "scientificName": " Papaver",
+    "color": "Red",
+    "url": "https://i.ibb.co/r0gQMN0/photo-2021-09-26-00-54-45.jpg"
+  },
+  {
+    "name": "Sunflower",
+    "_id": 109,
+    "price": 375,
+    "country": "Portugal",
+    "scientificName": "Helianthus",
+    "color": "Yellow",
+    "url": "https://i.ibb.co/ZV6TYWk/photo-2021-09-26-00-54-48.jpg"
+  },
+  {
+    "name": "Sword lily",
+    "_id": 110,
+    "price": 225,
+    "country": "Nepal",
+    "scientificName": "Gladiolus",
+    "color": "White",
+    "url": "https://i.ibb.co/10tkHph/photo-2021-09-26-00-54-46.jpg"
+  },
+  {
+    "name": "Day lily",
+    "_id": 111,
+    "price": 675,
+    "country": "China",
+    "scientificName": "Haemerocallis fulva",
+    "color": "brown",
+    "url": "https://i.ibb.co/Kr0m6xW/photo-2021-09-26-00-54-50.jpg"
+  },
+  {
+    "name": "Dianthus",
+    "_id": 112,
+    "price": 890,
+    "country": "Afganistan",
+    "scientificName": "Dianthus chinensis",
+    "color": "White",
+    "url": "https://i.ibb.co/1d4nCwM/photo-2021-09-26-00-54-52.jpg"
+  },
+  {
+    "name": "Dolan chapa",
+    "_id": 113,
+    "price": 780,
+    "country": "Pakistan",
+    "scientificName": "Hedychium coronarium",
+    "color": "White",
+    "url": "https://i.ibb.co/3fzgp6q/photo-2021-09-26-00-54-53.jpg"
+  },
+  {
+    "name": "Duranta",
+    "_id": 114,
+    "price": 350,
+    "country": "India",
+    "scientificName": "Duranta plumeirii",
+    "color": "Purple",
+    "url": "https://i.ibb.co/n38cn2R/photo-2021-09-26-00-54-55.jpg"
+  },
+  {
+    "name": "Epidendrum",
+    "_id": 115,
+    "price": 750,
+    "country": "Portugal",
+    "scientificName": "Epidendrum spp.",
+    "color": "Purple",
+    "url": "https://i.ibb.co/3RTTCLh/photo-2021-09-26-00-54-56.jpg"
+  },
+  {
+    "name": "Eucalyptus",
+    "_id": 116,
+    "price": 450,
+    "country": "Africa",
+    "scientificName": "Eucalyptus citriodora",
+    "color": "White",
+    "url": "https://i.ibb.co/D4sQZ7y/photo-2021-09-26-00-54-58.jpg"
+  },
+  {
+    "name": "Four o clock flower",
+    "_id": 117,
+    "price": 660,
+    "country": "Canada",
+    "scientificName": "Mirabilas jalapa",
+    "color": "Dark-Pink",
+    "url": "https://i.ibb.co/zFg848R/photo-2021-09-26-00-54-59.jpg"
+  },
+  {
+    "name": "Foxtail Orchids",
+    "_id": 118,
+    "price": 550,
+    "country": "Japan",
+    "scientificName": "Rhynchostylis gigantea",
+    "color": "White",
+    "url": "https://i.ibb.co/NKwfZw3/photo-2021-09-26-00-55-00.jpg"
+  },
+  {
+    "name": "Giant lotus",
+    "_id": 119,
+    "price": 980,
+    "country": "UK",
+    "scientificName": "Victoria amazonica",
+    "color": "Pink",
+    "url": "https://i.ibb.co/q9fXTrG/photo-2021-09-26-00-55-03.jpg"
+  },
+  {
+    "name": "Gladiolus",
+    "_id": 120,
+    "price": 1020,
+    "country": "Australia",
+    "scientificName": "Gladiolus spp.",
+    "color": "Red and Purple",
+    "url": "https://i.ibb.co/BPQHM3r/photo-2021-09-26-00-55-06.jpg"
+  }
+]

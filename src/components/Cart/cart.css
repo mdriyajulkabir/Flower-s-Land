@@ -1,0 +1,19 @@
+.cart{
+    width:  300px;
+}
+.cart h1{
+    color: tomato;
+}
+.list{
+    color: red;
+}
+.list-name{
+    font-weight: bold;
+}
+/* .card:hover{
+    background: rgb(43, 133, 114);
+    box-shadow: 0 0 10px #023506, 0 0 40px #023506, 0 0 80px #023506;
+    cursor: pointer;
+    transition: 0.5s;
+    color: rgb(156, 228, 228);
+} */

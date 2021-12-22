@@ -1,0 +1,39 @@
+
+/* .single-item{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+} */
+
+/* .card{
+    background-color: aquamarine;
+    border-radius: 10px;
+    
+} */
+.cart-button{
+    background-color: gray;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid salmon;
+    border-radius: 5px;
+}
+.card img{
+    height: 200px;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 175px;
+}
+.card{
+    background-color: rgb(154, 233, 90);
+    border-radius: 10px;
+    color:rgb(21, 1, 39);
+}
+.card:hover{
+    background: rgb(43, 133, 114);
+    box-shadow: 0 0 10px #023506, 0 0 40px #023506, 0 0 80px #023506;
+    cursor: pointer;
+    transition: 0.5s;
+    color: rgb(156, 228, 228);
+}
